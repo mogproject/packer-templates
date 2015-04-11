@@ -58,12 +58,7 @@ $ vagrant box add centos58-desktop box/virtualbox/centos58-desktop-nocm-0.1.0.bo
 
 ```
 $ cd your/vagrant/project
-$ vagrant init
-$ vi Vagrantfile
-
-### modify here
-###   config.vm.box = "centos58-desktop"
-
+$ vagrant init centos58-desktop
 $ vagrant up
 ```
 
