@@ -72,6 +72,7 @@
         "script/desktop.sh",
         "script/vmtool.sh",
         "script/cmtool.sh",
+        "script/epel.sh",
         "script/cleanup.sh"
       ],
       "type": "shell"
